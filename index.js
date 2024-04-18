@@ -1,3 +1,4 @@
+#! /usr/bin/env nod
 import inquirer from "inquirer";
 //this module to get data from cmd
 const answers 
